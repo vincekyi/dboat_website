@@ -51,6 +51,7 @@ h2 {
 p {
   font-size: 1.1em;
   line-height: 1.7em;
+  float: center;
 }
 
 /* header */
@@ -59,7 +60,7 @@ p {
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
-  color: #fff;
+  color: #33FF33;
   text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 9px;
@@ -68,7 +69,7 @@ p {
 }
 
 #logo:hover {
-  color: #fff;
+  color: #FFFF33;
   text-decoration: none;
 }
 
